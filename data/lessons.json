@@ -1,0 +1,2444 @@
+[
+  {
+    "english": "Hello",
+    "malayalam": "ഹലോ",
+    "hindi": "नमस्ते",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "halo",
+      "hindi": "namaste"
+    }
+  },
+  {
+    "english": "Good morning",
+    "malayalam": "സുപ്രഭാതം",
+    "hindi": "सुप्रभात",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "suprabhaatham",
+      "hindi": "suprabhaat"
+    }
+  },
+  {
+    "english": "Good night",
+    "malayalam": "ശുഭ രാത്രി",
+    "hindi": "शुभ रात्रि",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shubha raathri",
+      "hindi": "shubh raatri"
+    }
+  },
+  {
+    "english": "How are you?",
+    "malayalam": "സുഖമാണോ?",
+    "hindi": "आप कैसे हैं?",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "sukhamaano?",
+      "hindi": "aap kaise hain?"
+    }
+  },
+  {
+    "english": "I’m fine",
+    "malayalam": "എനിക്ക് സുഖമാണ്",
+    "hindi": "मैं ठीक हूँ",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku sukhamaanu",
+      "hindi": "main theek hoon"
+    }
+  },
+  {
+    "english": "Nice to meet you",
+    "malayalam": "കണ്ടതിൽ സന്തോഷം",
+    "hindi": "आपसे मिलकर खुशी हुई",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "kandathil santhosham",
+      "hindi": "aapse milkar khushi hui"
+    }
+  },
+  {
+    "english": "Welcome",
+    "malayalam": "സ്വാഗതം",
+    "hindi": "स्वागत है",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "swagatham",
+      "hindi": "swagat hai"
+    }
+  },
+  {
+    "english": "See you soon",
+    "malayalam": "വീണ്ടും കാണാം",
+    "hindi": "जल्द मिलेंगे",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "veendum kaanam",
+      "hindi": "jald milenge"
+    }
+  },
+  {
+    "english": "Take care",
+    "malayalam": "ശ്രദ്ധിക്കണം",
+    "hindi": "ध्यान रखना",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shradhikkanam",
+      "hindi": "dhyaan rakhna"
+    }
+  },
+  {
+    "english": "Goodbye",
+    "malayalam": "വിട",
+    "hindi": "अलविदा",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "vida",
+      "hindi": "alvida"
+    }
+  },
+  {
+    "english": "Thank you",
+    "malayalam": "നന്ദി",
+    "hindi": "धन्यवाद",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nandhi",
+      "hindi": "dhanyavaad"
+    }
+  },
+  {
+    "english": "Sorry",
+    "malayalam": "ക്ഷമിക്കുക",
+    "hindi": "माफ कीजिए",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "kshamikkuka",
+      "hindi": "maaf keejiye"
+    }
+  },
+  {
+    "english": "Please",
+    "malayalam": "ദയവായി",
+    "hindi": "कृपया",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "dayavaayi",
+      "hindi": "kripya"
+    }
+  },
+  {
+    "english": "Yes",
+    "malayalam": "അതെ",
+    "hindi": "हाँ",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "athe",
+      "hindi": "haan"
+    }
+  },
+  {
+    "english": "No",
+    "malayalam": "ഇല്ല",
+    "hindi": "नहीं",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "illa",
+      "hindi": "nahin"
+    }
+  },
+  {
+    "english": "Wait a moment",
+    "malayalam": "ഒരു നിമിഷം കാത്തിരിക്കുക",
+    "hindi": "एक पल रुको",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "oru nimisham kaathirikkuka",
+      "hindi": "ek pal ruko"
+    }
+  },
+  {
+    "english": "Let’s go",
+    "malayalam": "പോകാം",
+    "hindi": "चलो चलते हैं",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "pokaam",
+      "hindi": "chalo chalte hain"
+    }
+  },
+  {
+    "english": "Come here",
+    "malayalam": "ഇവിടെ വരിക",
+    "hindi": "यहाँ आओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ivide varika",
+      "hindi": "yahaan aao"
+    }
+  },
+  {
+    "english": "Go there",
+    "malayalam": "അവിടെ പോകുക",
+    "hindi": "वहाँ जाओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "avide pokuka",
+      "hindi": "vahaan jao"
+    }
+  },
+  {
+    "english": "Sit down",
+    "malayalam": "ഇരിക്കുക",
+    "hindi": "बैठो",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "irikkuka",
+      "hindi": "baitho"
+    }
+  },
+  {
+    "english": "What is your name?",
+    "malayalam": "നിങ്ങളുടെ പേര് എന്താണ്?",
+    "hindi": "आपका नाम क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningalude peru enthaanu?",
+      "hindi": "aapka naam kya hai?"
+    }
+  },
+  {
+    "english": "Where are you from?",
+    "malayalam": "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+    "hindi": "आप कहाँ से हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningal evide ninnanu?",
+      "hindi": "aap kahaan se hain?"
+    }
+  },
+  {
+    "english": "How old are you?",
+    "malayalam": "നിനക്ക് എത്ര വയസാണ്?",
+    "hindi": "आपकी उम्र क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku ethra vayasa?",
+      "hindi": "aapki umr kya hai?"
+    }
+  },
+  {
+    "english": "Do you like music?",
+    "malayalam": "നിനക്ക് സംഗീതം ഇഷ്ടമാണോ?",
+    "hindi": "क्या आपको संगीत पसंद है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku sangeetham ishtamano?",
+      "hindi": "kya aapko sangeet pasand hai?"
+    }
+  },
+  {
+    "english": "Can you help me?",
+    "malayalam": "നീ എനിക്ക് സഹായിക്കുമോ?",
+    "hindi": "क्या आप मेरी मदद कर सकते हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nee enikku sahaayikkumo?",
+      "hindi": "kya aap meri madad kar sakte hain?"
+    }
+  },
+  {
+    "english": "Where is the station?",
+    "malayalam": "സ്റ്റേഷൻ എവിടെയാണ്?",
+    "hindi": "स्टेशन कहाँ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "station evide aanu?",
+      "hindi": "station kahaan hai?"
+    }
+  },
+  {
+    "english": "What time is it?",
+    "malayalam": "സമയം എത്രയായി?",
+    "hindi": "समय क्या हुआ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "samayam ethraayi?",
+      "hindi": "samay kya hua hai?"
+    }
+  },
+  {
+    "english": "Do you understand?",
+    "malayalam": "നിനക്ക് മനസ്സിലായോ?",
+    "hindi": "क्या आपको समझ में आया?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku manassilayo?",
+      "hindi": "kya aapko samajh mein aaya?"
+    }
+  },
+  {
+    "english": "What is this?",
+    "malayalam": "ഇത് എന്താണ്?",
+    "hindi": "यह क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu enthaanu?",
+      "hindi": "yeh kya hai?"
+    }
+  },
+  {
+    "english": "Why are you sad?",
+    "malayalam": "നിനക്ക് എന്താണ് ദുഃഖം?",
+    "hindi": "आप दुखी क्यों हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku enthaanu dhukham?",
+      "hindi": "aap dukhi kyon hain?"
+    }
+  },
+  {
+    "english": "I don’t know",
+    "malayalam": "എനിക്ക് അറിയില്ല",
+    "hindi": "मुझे नहीं पता",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ariyilla",
+      "hindi": "mujhe nahi pata"
+    }
+  },
+  {
+    "english": "I understand",
+    "malayalam": "എനിക്ക് മനസിലായി",
+    "hindi": "मुझे समझ में आया",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku manasilayi",
+      "hindi": "mujhe samajh mein aaya"
+    }
+  },
+  {
+    "english": "Everything is fine",
+    "malayalam": "എല്ലാം ശരിയാണ്",
+    "hindi": "सब ठीक है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ellaam shariyaan",
+      "hindi": "sab theek hai"
+    }
+  },
+  {
+    "english": "I’m learning Malayalam",
+    "malayalam": "ഞാൻ മലയാളം പഠിക്കുന്നു",
+    "hindi": "मैं मलयालम सीख रहा हूँ",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "naan malayalam padikkunnu",
+      "hindi": "main malayalam seekh raha hoon"
+    }
+  },
+  {
+    "english": "This is my book",
+    "malayalam": "ഇത് എന്റെ പുസ്തകമാണ്",
+    "hindi": "यह मेरी किताब है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu ente pusthakam aan",
+      "hindi": "yeh meri kitaab hai"
+    }
+  },
+  {
+    "english": "Good job",
+    "malayalam": "നല്ല ജോലി",
+    "hindi": "अच्छा काम",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nalla joli",
+      "hindi": "accha kaam"
+    }
+  },
+  {
+    "english": "Congratulations",
+    "malayalam": "അഭിനന്ദനങ്ങൾ",
+    "hindi": "बधाई हो",
+    "category": "responses",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "abhinandanangal",
+      "hindi": "badhai ho"
+    }
+  },
+  {
+    "english": "Well done",
+    "malayalam": "നന്നായി ചെയ്തു",
+    "hindi": "शाबाश",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nannaayi cheythu",
+      "hindi": "shaabash"
+    }
+  },
+  {
+    "english": "Don’t worry",
+    "malayalam": "ചിന്തിക്കേണ്ട",
+    "hindi": "चिंता मत करो",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "chinthikkenda",
+      "hindi": "chinta mat karo"
+    }
+  },
+  {
+    "english": "It’s okay",
+    "malayalam": "പരവായില്ല",
+    "hindi": "कोई बात नहीं",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "paravaayilla",
+      "hindi": "koi baat nahi"
+    }
+  },
+  {
+    "english": "I’m happy",
+    "malayalam": "എനിക്ക് സന്തോഷം",
+    "hindi": "मैं खुश हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku santhosham",
+      "hindi": "main khush hoon"
+    }
+  },
+  {
+    "english": "I’m sad",
+    "malayalam": "എനിക്ക് ദുഃഖം",
+    "hindi": "मैं दुखी हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku dhukham",
+      "hindi": "main dukhi hoon"
+    }
+  },
+  {
+    "english": "I’m tired",
+    "malayalam": "എനിക്ക് ക്ഷീണം തോന്നുന്നു",
+    "hindi": "मैं थक गया हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ksheenam thonnunnu",
+      "hindi": "main thak gaya hoon"
+    }
+  },
+  {
+    "english": "I’m hungry",
+    "malayalam": "എനിക്ക് വിശക്കുന്നു",
+    "hindi": "मुझे भूख लगी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vishakkunnu",
+      "hindi": "mujhe bhukh lagi hai"
+    }
+  },
+  {
+    "english": "I’m cold",
+    "malayalam": "എനിക്ക് തണുപ്പ് തോന്നുന്നു",
+    "hindi": "मुझे ठंड लग रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku thanuppu thonnunnu",
+      "hindi": "mujhe thand lag rahi hai"
+    }
+  },
+  {
+    "english": "It’s hot",
+    "malayalam": "ഇത് ചൂടാണ്",
+    "hindi": "बहुत गर्मी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu choodaanu",
+      "hindi": "bahut garmi hai"
+    }
+  },
+  {
+    "english": "I’m scared",
+    "malayalam": "എനിക്ക് ഭയം",
+    "hindi": "मुझे डर लग रहा है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bhayam",
+      "hindi": "mujhe dar lag raha hai"
+    }
+  },
+  {
+    "english": "I’m excited",
+    "malayalam": "എനിക്ക് ആവേശം",
+    "hindi": "मैं उत्साहित हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku aavesham",
+      "hindi": "main utsaahit hoon"
+    }
+  },
+  {
+    "english": "I’m bored",
+    "malayalam": "എനിക്ക് ബോർ ആയി",
+    "hindi": "मुझे बोरियत हो रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bor aayi",
+      "hindi": "mujhe boreeyat ho rahi hai"
+    }
+  },
+  {
+    "english": "I’m surprised",
+    "malayalam": "എനിക്ക് അതിശയമായി",
+    "hindi": "मुझे आश्चर्य हुआ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku athishayamaayi",
+      "hindi": "mujhe aashcharya hua"
+    }
+  },
+  {
+    "english": "Hello",
+    "malayalam": "ഹലോ",
+    "hindi": "नमस्ते",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "halo",
+      "hindi": "namaste"
+    }
+  },
+  {
+    "english": "Good morning",
+    "malayalam": "സുപ്രഭാതം",
+    "hindi": "सुप्रभात",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "suprabhaatham",
+      "hindi": "suprabhaat"
+    }
+  },
+  {
+    "english": "Good night",
+    "malayalam": "ശുഭ രാത്രി",
+    "hindi": "शुभ रात्रि",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shubha raathri",
+      "hindi": "shubh raatri"
+    }
+  },
+  {
+    "english": "How are you?",
+    "malayalam": "സുഖമാണോ?",
+    "hindi": "आप कैसे हैं?",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "sukhamaano?",
+      "hindi": "aap kaise hain?"
+    }
+  },
+  {
+    "english": "I’m fine",
+    "malayalam": "എനിക്ക് സുഖമാണ്",
+    "hindi": "मैं ठीक हूँ",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku sukhamaanu",
+      "hindi": "main theek hoon"
+    }
+  },
+  {
+    "english": "Nice to meet you",
+    "malayalam": "കണ്ടതിൽ സന്തോഷം",
+    "hindi": "आपसे मिलकर खुशी हुई",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "kandathil santhosham",
+      "hindi": "aapse milkar khushi hui"
+    }
+  },
+  {
+    "english": "Welcome",
+    "malayalam": "സ്വാഗതം",
+    "hindi": "स्वागत है",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "swagatham",
+      "hindi": "swagat hai"
+    }
+  },
+  {
+    "english": "See you soon",
+    "malayalam": "വീണ്ടും കാണാം",
+    "hindi": "जल्द मिलेंगे",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "veendum kaanam",
+      "hindi": "jald milenge"
+    }
+  },
+  {
+    "english": "Take care",
+    "malayalam": "ശ്രദ്ധിക്കണം",
+    "hindi": "ध्यान रखना",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shradhikkanam",
+      "hindi": "dhyaan rakhna"
+    }
+  },
+  {
+    "english": "Goodbye",
+    "malayalam": "വിട",
+    "hindi": "अलविदा",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "vida",
+      "hindi": "alvida"
+    }
+  },
+  {
+    "english": "Thank you",
+    "malayalam": "നന്ദി",
+    "hindi": "धन्यवाद",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nandhi",
+      "hindi": "dhanyavaad"
+    }
+  },
+  {
+    "english": "Sorry",
+    "malayalam": "ക്ഷമിക്കുക",
+    "hindi": "माफ कीजिए",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "kshamikkuka",
+      "hindi": "maaf keejiye"
+    }
+  },
+  {
+    "english": "Please",
+    "malayalam": "ദയവായി",
+    "hindi": "कृपया",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "dayavaayi",
+      "hindi": "kripya"
+    }
+  },
+  {
+    "english": "Yes",
+    "malayalam": "അതെ",
+    "hindi": "हाँ",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "athe",
+      "hindi": "haan"
+    }
+  },
+  {
+    "english": "No",
+    "malayalam": "ഇല്ല",
+    "hindi": "नहीं",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "illa",
+      "hindi": "nahin"
+    }
+  },
+  {
+    "english": "Wait a moment",
+    "malayalam": "ഒരു നിമിഷം കാത്തിരിക്കുക",
+    "hindi": "एक पल रुको",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "oru nimisham kaathirikkuka",
+      "hindi": "ek pal ruko"
+    }
+  },
+  {
+    "english": "Let’s go",
+    "malayalam": "പോകാം",
+    "hindi": "चलो चलते हैं",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "pokaam",
+      "hindi": "chalo chalte hain"
+    }
+  },
+  {
+    "english": "Come here",
+    "malayalam": "ഇവിടെ വരിക",
+    "hindi": "यहाँ आओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ivide varika",
+      "hindi": "yahaan aao"
+    }
+  },
+  {
+    "english": "Go there",
+    "malayalam": "അവിടെ പോകുക",
+    "hindi": "वहाँ जाओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "avide pokuka",
+      "hindi": "vahaan jao"
+    }
+  },
+  {
+    "english": "Sit down",
+    "malayalam": "ഇരിക്കുക",
+    "hindi": "बैठो",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "irikkuka",
+      "hindi": "baitho"
+    }
+  },
+  {
+    "english": "What is your name?",
+    "malayalam": "നിങ്ങളുടെ പേര് എന്താണ്?",
+    "hindi": "आपका नाम क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningalude peru enthaanu?",
+      "hindi": "aapka naam kya hai?"
+    }
+  },
+  {
+    "english": "Where are you from?",
+    "malayalam": "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+    "hindi": "आप कहाँ से हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningal evide ninnanu?",
+      "hindi": "aap kahaan se hain?"
+    }
+  },
+  {
+    "english": "How old are you?",
+    "malayalam": "നിനക്ക് എത്ര വയസാണ്?",
+    "hindi": "आपकी उम्र क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku ethra vayasa?",
+      "hindi": "aapki umr kya hai?"
+    }
+  },
+  {
+    "english": "Do you like music?",
+    "malayalam": "നിനക്ക് സംഗീതം ഇഷ്ടമാണോ?",
+    "hindi": "क्या आपको संगीत पसंद है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku sangeetham ishtamano?",
+      "hindi": "kya aapko sangeet pasand hai?"
+    }
+  },
+  {
+    "english": "Can you help me?",
+    "malayalam": "നീ എനിക്ക് സഹായിക്കുമോ?",
+    "hindi": "क्या आप मेरी मदद कर सकते हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nee enikku sahaayikkumo?",
+      "hindi": "kya aap meri madad kar sakte hain?"
+    }
+  },
+  {
+    "english": "Where is the station?",
+    "malayalam": "സ്റ്റേഷൻ എവിടെയാണ്?",
+    "hindi": "स्टेशन कहाँ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "station evide aanu?",
+      "hindi": "station kahaan hai?"
+    }
+  },
+  {
+    "english": "What time is it?",
+    "malayalam": "സമയം എത്രയായി?",
+    "hindi": "समय क्या हुआ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "samayam ethraayi?",
+      "hindi": "samay kya hua hai?"
+    }
+  },
+  {
+    "english": "Do you understand?",
+    "malayalam": "നിനക്ക് മനസ്സിലായോ?",
+    "hindi": "क्या आपको समझ में आया?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku manassilayo?",
+      "hindi": "kya aapko samajh mein aaya?"
+    }
+  },
+  {
+    "english": "What is this?",
+    "malayalam": "ഇത് എന്താണ്?",
+    "hindi": "यह क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu enthaanu?",
+      "hindi": "yeh kya hai?"
+    }
+  },
+  {
+    "english": "Why are you sad?",
+    "malayalam": "നിനക്ക് എന്താണ് ദുഃഖം?",
+    "hindi": "आप दुखी क्यों हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku enthaanu dhukham?",
+      "hindi": "aap dukhi kyon hain?"
+    }
+  },
+  {
+    "english": "I don’t know",
+    "malayalam": "എനിക്ക് അറിയില്ല",
+    "hindi": "मुझे नहीं पता",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ariyilla",
+      "hindi": "mujhe nahi pata"
+    }
+  },
+  {
+    "english": "I understand",
+    "malayalam": "എനിക്ക് മനസിലായി",
+    "hindi": "मुझे समझ में आया",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku manasilayi",
+      "hindi": "mujhe samajh mein aaya"
+    }
+  },
+  {
+    "english": "Everything is fine",
+    "malayalam": "എല്ലാം ശരിയാണ്",
+    "hindi": "सब ठीक है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ellaam shariyaan",
+      "hindi": "sab theek hai"
+    }
+  },
+  {
+    "english": "I’m learning Malayalam",
+    "malayalam": "ഞാൻ മലയാളം പഠിക്കുന്നു",
+    "hindi": "मैं मलयालम सीख रहा हूँ",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "naan malayalam padikkunnu",
+      "hindi": "main malayalam seekh raha hoon"
+    }
+  },
+  {
+    "english": "This is my book",
+    "malayalam": "ഇത് എന്റെ പുസ്തകമാണ്",
+    "hindi": "यह मेरी किताब है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu ente pusthakam aan",
+      "hindi": "yeh meri kitaab hai"
+    }
+  },
+  {
+    "english": "Good job",
+    "malayalam": "നല്ല ജോലി",
+    "hindi": "अच्छा काम",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nalla joli",
+      "hindi": "accha kaam"
+    }
+  },
+  {
+    "english": "Congratulations",
+    "malayalam": "അഭിനന്ദനങ്ങൾ",
+    "hindi": "बधाई हो",
+    "category": "responses",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "abhinandanangal",
+      "hindi": "badhai ho"
+    }
+  },
+  {
+    "english": "Well done",
+    "malayalam": "നന്നായി ചെയ്തു",
+    "hindi": "शाबाश",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nannaayi cheythu",
+      "hindi": "shaabash"
+    }
+  },
+  {
+    "english": "Don’t worry",
+    "malayalam": "ചിന്തിക്കേണ്ട",
+    "hindi": "चिंता मत करो",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "chinthikkenda",
+      "hindi": "chinta mat karo"
+    }
+  },
+  {
+    "english": "It’s okay",
+    "malayalam": "പരവായില്ല",
+    "hindi": "कोई बात नहीं",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "paravaayilla",
+      "hindi": "koi baat nahi"
+    }
+  },
+  {
+    "english": "I’m happy",
+    "malayalam": "എനിക്ക് സന്തോഷം",
+    "hindi": "मैं खुश हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku santhosham",
+      "hindi": "main khush hoon"
+    }
+  },
+  {
+    "english": "I’m sad",
+    "malayalam": "എനിക്ക് ദുഃഖം",
+    "hindi": "मैं दुखी हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku dhukham",
+      "hindi": "main dukhi hoon"
+    }
+  },
+  {
+    "english": "I’m tired",
+    "malayalam": "എനിക്ക് ക്ഷീണം തോന്നുന്നു",
+    "hindi": "मैं थक गया हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ksheenam thonnunnu",
+      "hindi": "main thak gaya hoon"
+    }
+  },
+  {
+    "english": "I’m hungry",
+    "malayalam": "എനിക്ക് വിശക്കുന്നു",
+    "hindi": "मुझे भूख लगी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vishakkunnu",
+      "hindi": "mujhe bhukh lagi hai"
+    }
+  },
+  {
+    "english": "I’m cold",
+    "malayalam": "എനിക്ക് തണുപ്പ് തോന്നുന്നു",
+    "hindi": "मुझे ठंड लग रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku thanuppu thonnunnu",
+      "hindi": "mujhe thand lag rahi hai"
+    }
+  },
+  {
+    "english": "It’s hot",
+    "malayalam": "ഇത് ചൂടാണ്",
+    "hindi": "बहुत गर्मी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu choodaanu",
+      "hindi": "bahut garmi hai"
+    }
+  },
+  {
+    "english": "I’m scared",
+    "malayalam": "എനിക്ക് ഭയം",
+    "hindi": "मुझे डर लग रहा है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bhayam",
+      "hindi": "mujhe dar lag raha hai"
+    }
+  },
+  {
+    "english": "I’m excited",
+    "malayalam": "എനിക്ക് ആവേശം",
+    "hindi": "मैं उत्साहित हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku aavesham",
+      "hindi": "main utsaahit hoon"
+    }
+  },
+  {
+    "english": "I’m bored",
+    "malayalam": "എനിക്ക് ബോർ ആയി",
+    "hindi": "मुझे बोरियत हो रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bor aayi",
+      "hindi": "mujhe boreeyat ho rahi hai"
+    }
+  },
+  {
+    "english": "I’m surprised",
+    "malayalam": "എനിക്ക് അതിശയമായി",
+    "hindi": "मुझे आश्चर्य हुआ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku athishayamaayi",
+      "hindi": "mujhe aashcharya hua"
+    }
+  },
+  {
+    "english": "Hello",
+    "malayalam": "ഹലോ",
+    "hindi": "नमस्ते",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "halo",
+      "hindi": "namaste"
+    }
+  },
+  {
+    "english": "Good morning",
+    "malayalam": "സുപ്രഭാതം",
+    "hindi": "सुप्रभात",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "suprabhaatham",
+      "hindi": "suprabhaat"
+    }
+  },
+  {
+    "english": "Good night",
+    "malayalam": "ശുഭ രാത്രി",
+    "hindi": "शुभ रात्रि",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shubha raathri",
+      "hindi": "shubh raatri"
+    }
+  },
+  {
+    "english": "How are you?",
+    "malayalam": "സുഖമാണോ?",
+    "hindi": "आप कैसे हैं?",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "sukhamaano?",
+      "hindi": "aap kaise hain?"
+    }
+  },
+  {
+    "english": "I’m fine",
+    "malayalam": "എനിക്ക് സുഖമാണ്",
+    "hindi": "मैं ठीक हूँ",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku sukhamaanu",
+      "hindi": "main theek hoon"
+    }
+  },
+  {
+    "english": "Nice to meet you",
+    "malayalam": "കണ്ടതിൽ സന്തോഷം",
+    "hindi": "आपसे मिलकर खुशी हुई",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "kandathil santhosham",
+      "hindi": "aapse milkar khushi hui"
+    }
+  },
+  {
+    "english": "Welcome",
+    "malayalam": "സ്വാഗതം",
+    "hindi": "स्वागत है",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "swagatham",
+      "hindi": "swagat hai"
+    }
+  },
+  {
+    "english": "See you soon",
+    "malayalam": "വീണ്ടും കാണാം",
+    "hindi": "जल्द मिलेंगे",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "veendum kaanam",
+      "hindi": "jald milenge"
+    }
+  },
+  {
+    "english": "Take care",
+    "malayalam": "ശ്രദ്ധിക്കണം",
+    "hindi": "ध्यान रखना",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shradhikkanam",
+      "hindi": "dhyaan rakhna"
+    }
+  },
+  {
+    "english": "Goodbye",
+    "malayalam": "വിട",
+    "hindi": "अलविदा",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "vida",
+      "hindi": "alvida"
+    }
+  },
+  {
+    "english": "Thank you",
+    "malayalam": "നന്ദി",
+    "hindi": "धन्यवाद",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nandhi",
+      "hindi": "dhanyavaad"
+    }
+  },
+  {
+    "english": "Sorry",
+    "malayalam": "ക്ഷമിക്കുക",
+    "hindi": "माफ कीजिए",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "kshamikkuka",
+      "hindi": "maaf keejiye"
+    }
+  },
+  {
+    "english": "Please",
+    "malayalam": "ദയവായി",
+    "hindi": "कृपया",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "dayavaayi",
+      "hindi": "kripya"
+    }
+  },
+  {
+    "english": "Yes",
+    "malayalam": "അതെ",
+    "hindi": "हाँ",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "athe",
+      "hindi": "haan"
+    }
+  },
+  {
+    "english": "No",
+    "malayalam": "ഇല്ല",
+    "hindi": "नहीं",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "illa",
+      "hindi": "nahin"
+    }
+  },
+  {
+    "english": "Wait a moment",
+    "malayalam": "ഒരു നിമിഷം കാത്തിരിക്കുക",
+    "hindi": "एक पल रुको",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "oru nimisham kaathirikkuka",
+      "hindi": "ek pal ruko"
+    }
+  },
+  {
+    "english": "Let’s go",
+    "malayalam": "പോകാം",
+    "hindi": "चलो चलते हैं",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "pokaam",
+      "hindi": "chalo chalte hain"
+    }
+  },
+  {
+    "english": "Come here",
+    "malayalam": "ഇവിടെ വരിക",
+    "hindi": "यहाँ आओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ivide varika",
+      "hindi": "yahaan aao"
+    }
+  },
+  {
+    "english": "Go there",
+    "malayalam": "അവിടെ പോകുക",
+    "hindi": "वहाँ जाओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "avide pokuka",
+      "hindi": "vahaan jao"
+    }
+  },
+  {
+    "english": "Sit down",
+    "malayalam": "ഇരിക്കുക",
+    "hindi": "बैठो",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "irikkuka",
+      "hindi": "baitho"
+    }
+  },
+  {
+    "english": "What is your name?",
+    "malayalam": "നിങ്ങളുടെ പേര് എന്താണ്?",
+    "hindi": "आपका नाम क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningalude peru enthaanu?",
+      "hindi": "aapka naam kya hai?"
+    }
+  },
+  {
+    "english": "Where are you from?",
+    "malayalam": "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+    "hindi": "आप कहाँ से हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningal evide ninnanu?",
+      "hindi": "aap kahaan se hain?"
+    }
+  },
+  {
+    "english": "How old are you?",
+    "malayalam": "നിനക്ക് എത്ര വയസാണ്?",
+    "hindi": "आपकी उम्र क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku ethra vayasa?",
+      "hindi": "aapki umr kya hai?"
+    }
+  },
+  {
+    "english": "Do you like music?",
+    "malayalam": "നിനക്ക് സംഗീതം ഇഷ്ടമാണോ?",
+    "hindi": "क्या आपको संगीत पसंद है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku sangeetham ishtamano?",
+      "hindi": "kya aapko sangeet pasand hai?"
+    }
+  },
+  {
+    "english": "Can you help me?",
+    "malayalam": "നീ എനിക്ക് സഹായിക്കുമോ?",
+    "hindi": "क्या आप मेरी मदद कर सकते हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nee enikku sahaayikkumo?",
+      "hindi": "kya aap meri madad kar sakte hain?"
+    }
+  },
+  {
+    "english": "Where is the station?",
+    "malayalam": "സ്റ്റേഷൻ എവിടെയാണ്?",
+    "hindi": "स्टेशन कहाँ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "station evide aanu?",
+      "hindi": "station kahaan hai?"
+    }
+  },
+  {
+    "english": "What time is it?",
+    "malayalam": "സമയം എത്രയായി?",
+    "hindi": "समय क्या हुआ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "samayam ethraayi?",
+      "hindi": "samay kya hua hai?"
+    }
+  },
+  {
+    "english": "Do you understand?",
+    "malayalam": "നിനക്ക് മനസ്സിലായോ?",
+    "hindi": "क्या आपको समझ में आया?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku manassilayo?",
+      "hindi": "kya aapko samajh mein aaya?"
+    }
+  },
+  {
+    "english": "What is this?",
+    "malayalam": "ഇത് എന്താണ്?",
+    "hindi": "यह क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu enthaanu?",
+      "hindi": "yeh kya hai?"
+    }
+  },
+  {
+    "english": "Why are you sad?",
+    "malayalam": "നിനക്ക് എന്താണ് ദുഃഖം?",
+    "hindi": "आप दुखी क्यों हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku enthaanu dhukham?",
+      "hindi": "aap dukhi kyon hain?"
+    }
+  },
+  {
+    "english": "I don’t know",
+    "malayalam": "എനിക്ക് അറിയില്ല",
+    "hindi": "मुझे नहीं पता",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ariyilla",
+      "hindi": "mujhe nahi pata"
+    }
+  },
+  {
+    "english": "I understand",
+    "malayalam": "എനിക്ക് മനസിലായി",
+    "hindi": "मुझे समझ में आया",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku manasilayi",
+      "hindi": "mujhe samajh mein aaya"
+    }
+  },
+  {
+    "english": "Everything is fine",
+    "malayalam": "എല്ലാം ശരിയാണ്",
+    "hindi": "सब ठीक है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ellaam shariyaan",
+      "hindi": "sab theek hai"
+    }
+  },
+  {
+    "english": "I’m learning Malayalam",
+    "malayalam": "ഞാൻ മലയാളം പഠിക്കുന്നു",
+    "hindi": "मैं मलयालम सीख रहा हूँ",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "naan malayalam padikkunnu",
+      "hindi": "main malayalam seekh raha hoon"
+    }
+  },
+  {
+    "english": "This is my book",
+    "malayalam": "ഇത് എന്റെ പുസ്തകമാണ്",
+    "hindi": "यह मेरी किताब है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu ente pusthakam aan",
+      "hindi": "yeh meri kitaab hai"
+    }
+  },
+  {
+    "english": "Good job",
+    "malayalam": "നല്ല ജോലി",
+    "hindi": "अच्छा काम",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nalla joli",
+      "hindi": "accha kaam"
+    }
+  },
+  {
+    "english": "Congratulations",
+    "malayalam": "അഭിനന്ദനങ്ങൾ",
+    "hindi": "बधाई हो",
+    "category": "responses",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "abhinandanangal",
+      "hindi": "badhai ho"
+    }
+  },
+  {
+    "english": "Well done",
+    "malayalam": "നന്നായി ചെയ്തു",
+    "hindi": "शाबाश",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nannaayi cheythu",
+      "hindi": "shaabash"
+    }
+  },
+  {
+    "english": "Don’t worry",
+    "malayalam": "ചിന്തിക്കേണ്ട",
+    "hindi": "चिंता मत करो",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "chinthikkenda",
+      "hindi": "chinta mat karo"
+    }
+  },
+  {
+    "english": "It’s okay",
+    "malayalam": "പരവായില്ല",
+    "hindi": "कोई बात नहीं",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "paravaayilla",
+      "hindi": "koi baat nahi"
+    }
+  },
+  {
+    "english": "I’m happy",
+    "malayalam": "എനിക്ക് സന്തോഷം",
+    "hindi": "मैं खुश हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku santhosham",
+      "hindi": "main khush hoon"
+    }
+  },
+  {
+    "english": "I’m sad",
+    "malayalam": "എനിക്ക് ദുഃഖം",
+    "hindi": "मैं दुखी हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku dhukham",
+      "hindi": "main dukhi hoon"
+    }
+  },
+  {
+    "english": "I’m tired",
+    "malayalam": "എനിക്ക് ക്ഷീണം തോന്നുന്നു",
+    "hindi": "मैं थक गया हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ksheenam thonnunnu",
+      "hindi": "main thak gaya hoon"
+    }
+  },
+  {
+    "english": "I’m hungry",
+    "malayalam": "എനിക്ക് വിശക്കുന്നു",
+    "hindi": "मुझे भूख लगी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vishakkunnu",
+      "hindi": "mujhe bhukh lagi hai"
+    }
+  },
+  {
+    "english": "I’m cold",
+    "malayalam": "എനിക്ക് തണുപ്പ് തോന്നുന്നു",
+    "hindi": "मुझे ठंड लग रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku thanuppu thonnunnu",
+      "hindi": "mujhe thand lag rahi hai"
+    }
+  },
+  {
+    "english": "It’s hot",
+    "malayalam": "ഇത് ചൂടാണ്",
+    "hindi": "बहुत गर्मी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu choodaanu",
+      "hindi": "bahut garmi hai"
+    }
+  },
+  {
+    "english": "I’m scared",
+    "malayalam": "എനിക്ക് ഭയം",
+    "hindi": "मुझे डर लग रहा है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bhayam",
+      "hindi": "mujhe dar lag raha hai"
+    }
+  },
+  {
+    "english": "I’m excited",
+    "malayalam": "എനിക്ക് ആവേശം",
+    "hindi": "मैं उत्साहित हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku aavesham",
+      "hindi": "main utsaahit hoon"
+    }
+  },
+  {
+    "english": "I’m bored",
+    "malayalam": "എനിക്ക് ബോർ ആയി",
+    "hindi": "मुझे बोरियत हो रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bor aayi",
+      "hindi": "mujhe boreeyat ho rahi hai"
+    }
+  },
+  {
+    "english": "I’m surprised",
+    "malayalam": "എനിക്ക് അതിശയമായി",
+    "hindi": "मुझे आश्चर्य हुआ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku athishayamaayi",
+      "hindi": "mujhe aashcharya hua"
+    }
+  },
+  {
+    "english": "Hello",
+    "malayalam": "ഹലോ",
+    "hindi": "नमस्ते",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "halo",
+      "hindi": "namaste"
+    }
+  },
+  {
+    "english": "Good morning",
+    "malayalam": "സുപ്രഭാതം",
+    "hindi": "सुप्रभात",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "suprabhaatham",
+      "hindi": "suprabhaat"
+    }
+  },
+  {
+    "english": "Good night",
+    "malayalam": "ശുഭ രാത്രി",
+    "hindi": "शुभ रात्रि",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shubha raathri",
+      "hindi": "shubh raatri"
+    }
+  },
+  {
+    "english": "How are you?",
+    "malayalam": "സുഖമാണോ?",
+    "hindi": "आप कैसे हैं?",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "sukhamaano?",
+      "hindi": "aap kaise hain?"
+    }
+  },
+  {
+    "english": "I’m fine",
+    "malayalam": "എനിക്ക് സുഖമാണ്",
+    "hindi": "मैं ठीक हूँ",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku sukhamaanu",
+      "hindi": "main theek hoon"
+    }
+  },
+  {
+    "english": "Nice to meet you",
+    "malayalam": "കണ്ടതിൽ സന്തോഷം",
+    "hindi": "आपसे मिलकर खुशी हुई",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "kandathil santhosham",
+      "hindi": "aapse milkar khushi hui"
+    }
+  },
+  {
+    "english": "Welcome",
+    "malayalam": "സ്വാഗതം",
+    "hindi": "स्वागत है",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "swagatham",
+      "hindi": "swagat hai"
+    }
+  },
+  {
+    "english": "See you soon",
+    "malayalam": "വീണ്ടും കാണാം",
+    "hindi": "जल्द मिलेंगे",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "veendum kaanam",
+      "hindi": "jald milenge"
+    }
+  },
+  {
+    "english": "Take care",
+    "malayalam": "ശ്രദ്ധിക്കണം",
+    "hindi": "ध्यान रखना",
+    "category": "greetings",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "shradhikkanam",
+      "hindi": "dhyaan rakhna"
+    }
+  },
+  {
+    "english": "Goodbye",
+    "malayalam": "വിട",
+    "hindi": "अलविदा",
+    "category": "greetings",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "vida",
+      "hindi": "alvida"
+    }
+  },
+  {
+    "english": "Thank you",
+    "malayalam": "നന്ദി",
+    "hindi": "धन्यवाद",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nandhi",
+      "hindi": "dhanyavaad"
+    }
+  },
+  {
+    "english": "Sorry",
+    "malayalam": "ക്ഷമിക്കുക",
+    "hindi": "माफ कीजिए",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "kshamikkuka",
+      "hindi": "maaf keejiye"
+    }
+  },
+  {
+    "english": "Please",
+    "malayalam": "ദയവായി",
+    "hindi": "कृपया",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "dayavaayi",
+      "hindi": "kripya"
+    }
+  },
+  {
+    "english": "Yes",
+    "malayalam": "അതെ",
+    "hindi": "हाँ",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "athe",
+      "hindi": "haan"
+    }
+  },
+  {
+    "english": "No",
+    "malayalam": "ഇല്ല",
+    "hindi": "नहीं",
+    "category": "daily use",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "illa",
+      "hindi": "nahin"
+    }
+  },
+  {
+    "english": "Wait a moment",
+    "malayalam": "ഒരു നിമിഷം കാത്തിരിക്കുക",
+    "hindi": "एक पल रुको",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "oru nimisham kaathirikkuka",
+      "hindi": "ek pal ruko"
+    }
+  },
+  {
+    "english": "Let’s go",
+    "malayalam": "പോകാം",
+    "hindi": "चलो चलते हैं",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "pokaam",
+      "hindi": "chalo chalte hain"
+    }
+  },
+  {
+    "english": "Come here",
+    "malayalam": "ഇവിടെ വരിക",
+    "hindi": "यहाँ आओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ivide varika",
+      "hindi": "yahaan aao"
+    }
+  },
+  {
+    "english": "Go there",
+    "malayalam": "അവിടെ പോകുക",
+    "hindi": "वहाँ जाओ",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "avide pokuka",
+      "hindi": "vahaan jao"
+    }
+  },
+  {
+    "english": "Sit down",
+    "malayalam": "ഇരിക്കുക",
+    "hindi": "बैठो",
+    "category": "daily use",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "irikkuka",
+      "hindi": "baitho"
+    }
+  },
+  {
+    "english": "What is your name?",
+    "malayalam": "നിങ്ങളുടെ പേര് എന്താണ്?",
+    "hindi": "आपका नाम क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningalude peru enthaanu?",
+      "hindi": "aapka naam kya hai?"
+    }
+  },
+  {
+    "english": "Where are you from?",
+    "malayalam": "നിങ്ങൾ എവിടെ നിന്നാണ്?",
+    "hindi": "आप कहाँ से हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ningal evide ninnanu?",
+      "hindi": "aap kahaan se hain?"
+    }
+  },
+  {
+    "english": "How old are you?",
+    "malayalam": "നിനക്ക് എത്ര വയസാണ്?",
+    "hindi": "आपकी उम्र क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku ethra vayasa?",
+      "hindi": "aapki umr kya hai?"
+    }
+  },
+  {
+    "english": "Do you like music?",
+    "malayalam": "നിനക്ക് സംഗീതം ഇഷ്ടമാണോ?",
+    "hindi": "क्या आपको संगीत पसंद है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku sangeetham ishtamano?",
+      "hindi": "kya aapko sangeet pasand hai?"
+    }
+  },
+  {
+    "english": "Can you help me?",
+    "malayalam": "നീ എനിക്ക് സഹായിക്കുമോ?",
+    "hindi": "क्या आप मेरी मदद कर सकते हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nee enikku sahaayikkumo?",
+      "hindi": "kya aap meri madad kar sakte hain?"
+    }
+  },
+  {
+    "english": "Where is the station?",
+    "malayalam": "സ്റ്റേഷൻ എവിടെയാണ്?",
+    "hindi": "स्टेशन कहाँ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "station evide aanu?",
+      "hindi": "station kahaan hai?"
+    }
+  },
+  {
+    "english": "What time is it?",
+    "malayalam": "സമയം എത്രയായി?",
+    "hindi": "समय क्या हुआ है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "samayam ethraayi?",
+      "hindi": "samay kya hua hai?"
+    }
+  },
+  {
+    "english": "Do you understand?",
+    "malayalam": "നിനക്ക് മനസ്സിലായോ?",
+    "hindi": "क्या आपको समझ में आया?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku manassilayo?",
+      "hindi": "kya aapko samajh mein aaya?"
+    }
+  },
+  {
+    "english": "What is this?",
+    "malayalam": "ഇത് എന്താണ്?",
+    "hindi": "यह क्या है?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu enthaanu?",
+      "hindi": "yeh kya hai?"
+    }
+  },
+  {
+    "english": "Why are you sad?",
+    "malayalam": "നിനക്ക് എന്താണ് ദുഃഖം?",
+    "hindi": "आप दुखी क्यों हैं?",
+    "category": "questions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ninakku enthaanu dhukham?",
+      "hindi": "aap dukhi kyon hain?"
+    }
+  },
+  {
+    "english": "I don’t know",
+    "malayalam": "എനിക്ക് അറിയില്ല",
+    "hindi": "मुझे नहीं पता",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ariyilla",
+      "hindi": "mujhe nahi pata"
+    }
+  },
+  {
+    "english": "I understand",
+    "malayalam": "എനിക്ക് മനസിലായി",
+    "hindi": "मुझे समझ में आया",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku manasilayi",
+      "hindi": "mujhe samajh mein aaya"
+    }
+  },
+  {
+    "english": "Everything is fine",
+    "malayalam": "എല്ലാം ശരിയാണ്",
+    "hindi": "सब ठीक है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ellaam shariyaan",
+      "hindi": "sab theek hai"
+    }
+  },
+  {
+    "english": "I’m learning Malayalam",
+    "malayalam": "ഞാൻ മലയാളം പഠിക്കുന്നു",
+    "hindi": "मैं मलयालम सीख रहा हूँ",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "naan malayalam padikkunnu",
+      "hindi": "main malayalam seekh raha hoon"
+    }
+  },
+  {
+    "english": "This is my book",
+    "malayalam": "ഇത് എന്റെ പുസ്തകമാണ്",
+    "hindi": "यह मेरी किताब है",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu ente pusthakam aan",
+      "hindi": "yeh meri kitaab hai"
+    }
+  },
+  {
+    "english": "Good job",
+    "malayalam": "നല്ല ജോലി",
+    "hindi": "अच्छा काम",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nalla joli",
+      "hindi": "accha kaam"
+    }
+  },
+  {
+    "english": "Congratulations",
+    "malayalam": "അഭിനന്ദനങ്ങൾ",
+    "hindi": "बधाई हो",
+    "category": "responses",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "abhinandanangal",
+      "hindi": "badhai ho"
+    }
+  },
+  {
+    "english": "Well done",
+    "malayalam": "നന്നായി ചെയ്തു",
+    "hindi": "शाबाश",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nannaayi cheythu",
+      "hindi": "shaabash"
+    }
+  },
+  {
+    "english": "Don’t worry",
+    "malayalam": "ചിന്തിക്കേണ്ട",
+    "hindi": "चिंता मत करो",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "chinthikkenda",
+      "hindi": "chinta mat karo"
+    }
+  },
+  {
+    "english": "It’s okay",
+    "malayalam": "പരവായില്ല",
+    "hindi": "कोई बात नहीं",
+    "category": "responses",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "paravaayilla",
+      "hindi": "koi baat nahi"
+    }
+  },
+  {
+    "english": "I’m happy",
+    "malayalam": "എനിക്ക് സന്തോഷം",
+    "hindi": "मैं खुश हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku santhosham",
+      "hindi": "main khush hoon"
+    }
+  },
+  {
+    "english": "I’m sad",
+    "malayalam": "എനിക്ക് ദുഃഖം",
+    "hindi": "मैं दुखी हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku dhukham",
+      "hindi": "main dukhi hoon"
+    }
+  },
+  {
+    "english": "I’m tired",
+    "malayalam": "എനിക്ക് ക്ഷീണം തോന്നുന്നു",
+    "hindi": "मैं थक गया हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ksheenam thonnunnu",
+      "hindi": "main thak gaya hoon"
+    }
+  },
+  {
+    "english": "I’m hungry",
+    "malayalam": "എനിക്ക് വിശക്കുന്നു",
+    "hindi": "मुझे भूख लगी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vishakkunnu",
+      "hindi": "mujhe bhukh lagi hai"
+    }
+  },
+  {
+    "english": "I’m cold",
+    "malayalam": "എനിക്ക് തണുപ്പ് തോന്നുന്നു",
+    "hindi": "मुझे ठंड लग रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku thanuppu thonnunnu",
+      "hindi": "mujhe thand lag rahi hai"
+    }
+  },
+  {
+    "english": "It’s hot",
+    "malayalam": "ഇത് ചൂടാണ്",
+    "hindi": "बहुत गर्मी है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ithu choodaanu",
+      "hindi": "bahut garmi hai"
+    }
+  },
+  {
+    "english": "I’m scared",
+    "malayalam": "എനിക്ക് ഭയം",
+    "hindi": "मुझे डर लग रहा है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bhayam",
+      "hindi": "mujhe dar lag raha hai"
+    }
+  },
+  {
+    "english": "I’m excited",
+    "malayalam": "എനിക്ക് ആവേശം",
+    "hindi": "मैं उत्साहित हूँ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku aavesham",
+      "hindi": "main utsaahit hoon"
+    }
+  },
+  {
+    "english": "I’m bored",
+    "malayalam": "എനിക്ക് ബോർ ആയി",
+    "hindi": "मुझे बोरियत हो रही है",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku bor aayi",
+      "hindi": "mujhe boreeyat ho rahi hai"
+    }
+  },
+  {
+    "english": "I’m surprised",
+    "malayalam": "എനിക്ക് അതിശയമായി",
+    "hindi": "मुझे आश्चर्य हुआ",
+    "category": "emotions",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku athishayamaayi",
+      "hindi": "mujhe aashcharya hua"
+    }
+  },
+  {
+    "english": "One",
+    "malayalam": "ഒന്ന്",
+    "hindi": "एक",
+    "category": "numbers",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "onnu",
+      "hindi": "ek"
+    }
+  },
+  {
+    "english": "Two",
+    "malayalam": "രണ്ട്",
+    "hindi": "दो",
+    "category": "numbers",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "randu",
+      "hindi": "do"
+    }
+  },
+  {
+    "english": "Three",
+    "malayalam": "മൂന്ന്",
+    "hindi": "तीन",
+    "category": "numbers",
+    "type": "word",
+    "pronunciation": {
+      "malayalam": "moonnu",
+      "hindi": "teen"
+    }
+  },
+  {
+    "english": "Where are you going?",
+    "malayalam": "നീ എവിടേക്കാണ് പോകുന്നത്?",
+    "hindi": "तुम कहाँ जा रहे हो?",
+    "category": "conversation",
+    "type": "question",
+    "pronunciation": {
+      "malayalam": "nee evidekkān̄ pōkun̄n̄u?",
+      "hindi": "tum kahaan ja rahe ho?"
+    }
+  },
+  {
+    "english": "I am hungry",
+    "malayalam": "എനിക്ക് വിശക്കുന്നു",
+    "hindi": "मुझे भूख लगी है",
+    "category": "daily",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vishakkunnu",
+      "hindi": "mujhe bhukh lagi hai"
+    }
+  },
+  {
+    "english": "Where is the bus stop?",
+    "malayalam": "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+    "hindi": "बस स्टॉप कहाँ है?",
+    "category": "travel",
+    "type": "question",
+    "pronunciation": {
+      "malayalam": "bus stop evideyaan?",
+      "hindi": "bus stop kahan hai?"
+    }
+  },
+  {
+    "english": "I need water",
+    "malayalam": "എനിക്ക് വെള്ളം വേണം",
+    "hindi": "मुझे पानी चाहिए",
+    "category": "daily",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku vellam venam",
+      "hindi": "mujhe paani chahiye"
+    }
+  },
+  {
+    "english": "I am learning Malayalam",
+    "malayalam": "ഞാൻ മലയാളം പഠിക്കുന്നു",
+    "hindi": "मैं मलयालम सीख रहा हूँ",
+    "category": "education",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nyan malayalam padikkunnu",
+      "hindi": "main malayalam seekh raha hoon"
+    }
+  },
+  {
+    "english": "This is beautiful",
+    "malayalam": "ഇത് മനോഹരമാണ്",
+    "hindi": "यह सुंदर है",
+    "category": "emotion",
+    "type": "phrase",
+    "pronunciation": {
+      "malayalam": "ith manoharamanu",
+      "hindi": "yah sundar hai"
+    }
+  },
+  {
+    "english": "I am tired",
+    "malayalam": "എനിക്ക് ക്ഷീണമുണ്ട്",
+    "hindi": "मैं थक गया हूँ",
+    "category": "daily",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku ksheenamundu",
+      "hindi": "main thak gaya hoon"
+    }
+  },
+  {
+    "english": "Do you like tea?",
+    "malayalam": "നിങ്ങൾക്ക് ചായ ഇഷ്ടമാണോ?",
+    "hindi": "क्या आपको चाय पसंद है?",
+    "category": "food",
+    "type": "question",
+    "pronunciation": {
+      "malayalam": "ningalkku chaaya ishtamano?",
+      "hindi": "kya aapko chai pasand hai?"
+    }
+  },
+  {
+    "english": "The train is late",
+    "malayalam": "ട്രെയിൻ വൈകി",
+    "hindi": "ट्रेन लेट है",
+    "category": "travel",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "train vaiki",
+      "hindi": "train late hai"
+    }
+  },
+  {
+    "english": "I love music",
+    "malayalam": "എനിക്ക് സംഗീതം ഇഷ്ടമാണ്",
+    "hindi": "मुझे संगीत पसंद है",
+    "category": "emotion",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku sangeetham ishtamaan",
+      "hindi": "mujhe sangeet pasand hai"
+    }
+  },
+  {
+    "english": "My name is Rahul",
+    "malayalam": "എന്റെ പേര് രാഹുൽ ആണ്",
+    "hindi": "मेरा नाम राहुल है",
+    "category": "introduction",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ente peru rahul aanu",
+      "hindi": "mera naam rahul hai"
+    }
+  },
+  {
+    "english": "Where do you live?",
+    "malayalam": "നിങ്ങൾ എവിടെ താമസിക്കുന്നു?",
+    "hindi": "आप कहाँ रहते हैं?",
+    "category": "conversation",
+    "type": "question",
+    "pronunciation": {
+      "malayalam": "ningal evide thamasikkunnu?",
+      "hindi": "aap kahan rehte hain?"
+    }
+  },
+  {
+    "english": "I will call you later",
+    "malayalam": "ഞാൻ പിന്നെ വിളിക്കും",
+    "hindi": "मैं बाद में कॉल करूंगा",
+    "category": "conversation",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "nyan pinne vilikkum",
+      "hindi": "main baad mein call karoonga"
+    }
+  },
+  {
+    "english": "Please wait a moment",
+    "malayalam": "ദയവായി ഒരു നിമിഷം കാത്തിരിക്കുക",
+    "hindi": "कृपया एक क्षण प्रतीक्षा करें",
+    "category": "conversation",
+    "type": "request",
+    "pronunciation": {
+      "malayalam": "dayavaayi oru nimisham kaathirikku",
+      "hindi": "kripya ek kshan pratiksha karein"
+    }
+  },
+  {
+    "english": "It’s raining",
+    "malayalam": "മഴ പെയ്യുന്നു",
+    "hindi": "बारिश हो रही है",
+    "category": "weather",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "mazha peyyunnu",
+      "hindi": "baarish ho rahi hai"
+    }
+  },
+  {
+    "english": "I lost my phone",
+    "malayalam": "എന്റെ ഫോൺ നഷ്ടപ്പെട്ടു",
+    "hindi": "मेरा फोन खो गया है",
+    "category": "travel",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "ente phone nashtappettu",
+      "hindi": "mera phone kho gaya hai"
+    }
+  },
+  {
+    "english": "Open the door",
+    "malayalam": "വാതിൽ തുറക്കൂ",
+    "hindi": "दरवाजा खोलो",
+    "category": "command",
+    "type": "imperative",
+    "pronunciation": {
+      "malayalam": "vaathil thurakku",
+      "hindi": "darwaza kholo"
+    }
+  },
+  {
+    "english": "Close the window",
+    "malayalam": "ജാലകം അടയ്ക്കൂ",
+    "hindi": "खिड़की बंद करो",
+    "category": "command",
+    "type": "imperative",
+    "pronunciation": {
+      "malayalam": "jalakam adaykku",
+      "hindi": "khidki band karo"
+    }
+  },
+  {
+    "english": "I am feeling sleepy",
+    "malayalam": "എനിക്ക് ഉറക്കം വരുന്നു",
+    "hindi": "मुझे नींद आ रही है",
+    "category": "daily",
+    "type": "sentence",
+    "pronunciation": {
+      "malayalam": "enikku urakkam varunnu",
+      "hindi": "mujhe neend aa rahi hai"
+    }
+  }
+]
