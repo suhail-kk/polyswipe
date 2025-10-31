@@ -5,6 +5,7 @@ import path from "path";
 const filePath = path.join(process.cwd(), "data", "lessons.json");
 
 // ✅ Validation helper
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 function isValidLesson(lesson: any): boolean {
   if (
     !lesson ||
@@ -23,6 +24,7 @@ function isValidLesson(lesson: any): boolean {
 }
 
 // ✅ Utility: detect duplicate by matching english text (case-insensitive)
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 function isDuplicate(existingData: any[], newLesson: any): boolean {
   return existingData.some(
     (item) =>
@@ -53,6 +55,7 @@ export async function POST(request: Request) {
     }
 
     // ✅ Read existing data
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     let existingData: any[] = [];
     try {
       const file = await readFile(filePath, "utf8");
@@ -63,7 +66,9 @@ export async function POST(request: Request) {
     }
 
     // ✅ Detect duplicates
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const duplicates: any[] = [];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const uniqueToAdd: any[] = [];
 
     for (const lesson of newLessons) {

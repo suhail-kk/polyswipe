@@ -25,14 +25,13 @@ export default function LessonForm({ onLessonAdded }: LessonFormProps) {
       await lessonService.saveLessons(lessons);
       setJsonInput('');
       onLessonAdded();
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } catch (error: any) {
       if (error.response?.data?.duplicates) {
         const duplicates = error.response.data.duplicates;
         const message = error.response.data.message || "Duplicate lessons found.";
-        setError(
-          `${message}\n\nDuplicate Entries:\n` +
-          duplicates.map((d: any) => `- ${d.english} (${d.category})`).join("\n")
-        );
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        setError(`${message}\n\nDuplicate Entries:\n` + duplicates.map((d: any) => `- ${d.english} (${d.category})`).join("\n"));
       } else {
         setError(error instanceof Error ? error.message : "Invalid JSON format");
       }

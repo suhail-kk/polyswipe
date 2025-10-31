@@ -14,8 +14,8 @@ export default function LessonCard({ item, onSwipe, isFront = false }: LessonCar
     const cardRef = useRef<HTMLDivElement>(null);
     const x = useMotionValue(0);
     const rotate = useTransform(x, [-150, 150], [-15, 15]);
-    const [isDragging, setIsDragging] = useState(false);
 
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const handleDragEnd = (_: any, info: any) => {
         const offset = info.offset.x;
         const velocity = info.velocity.x;
@@ -26,7 +26,6 @@ export default function LessonCard({ item, onSwipe, isFront = false }: LessonCar
         } else {
             x.set(0);
         }
-        setIsDragging(false);
     };
 
     return (
@@ -39,7 +38,6 @@ export default function LessonCard({ item, onSwipe, isFront = false }: LessonCar
             style={{ x, rotate }}
             drag={isFront ? 'x' : false}
             dragConstraints={{ left: 0, right: 0 }}
-            onDragStart={() => setIsDragging(true)}
             onDragEnd={handleDragEnd}
             transition={{ type: 'spring', stiffness: 200, damping: 20 }}
         >

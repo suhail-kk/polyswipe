@@ -10,17 +10,16 @@ interface LessonsListProps {
 }
 
 export default function LessonsList({ refresh }: LessonsListProps) {
-  const [activeIndex, setActiveIndex] = useState(2);
-
-  // ✅ Load index from localStorage
-  useEffect(() => {
+  // ✅ Initialize state directly from localStorage (avoids effect warning)
+  const [activeIndex, setActiveIndex] = useState(() => {
     if (typeof window !== 'undefined') {
-      const savedIndex = localStorage.getItem('lessonPage');
-      if (savedIndex) setActiveIndex(parseInt(savedIndex, 10));
+      const saved = localStorage.getItem('lessonPage');
+      return saved ? parseInt(saved, 10) : 2;
     }
-  }, []);
+    return 2;
+  });
 
-  // ✅ Save index to localStorage
+  // ✅ Save index to localStorage when it changes
   useEffect(() => {
     if (typeof window !== 'undefined') {
       localStorage.setItem('lessonPage', activeIndex.toString());

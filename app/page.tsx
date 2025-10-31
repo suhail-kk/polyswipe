@@ -11,14 +11,14 @@ import { Orbit } from 'lucide-react';
 
 export default function Home() {
   const [showForm, setShowForm] = useState(false);
-  const [bg, setBg] = useState(BACKGROUNDS[0]?.url || '#f8f9fa');
+  const [bg, setBg] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('appBackground') || BACKGROUNDS[0]?.url || '#f8f9fa';
+    }
+    return BACKGROUNDS[0]?.url || '#f8f9fa';
+  });
   const [refreshLessons, setRefreshLessons] = useState(false);
 
-  // ✅ Load background from localStorage on mount
-  useEffect(() => {
-    const savedBg = localStorage.getItem('appBackground');
-    if (savedBg) setBg(savedBg);
-  }, []);
 
   // ✅ Save background to localStorage whenever it changes
   useEffect(() => {

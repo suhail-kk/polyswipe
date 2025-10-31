@@ -11,9 +11,7 @@ interface ModalProps {
     title?: string;
     description?: string;
     modalStyle?: string;
-    triggerLabel?: string;
     maxWidth?: string;
-    isTriggerNeeded?: boolean;
 }
 
 const Modal: React.FC<ModalProps> = ({
@@ -23,9 +21,7 @@ const Modal: React.FC<ModalProps> = ({
     title,
     description,
     modalStyle = "",
-    triggerLabel = "Open Modal",
     maxWidth = "700px",
-    isTriggerNeeded = false,
 }) => {
     if (typeof document === "undefined") return null; // SSR safe
 
