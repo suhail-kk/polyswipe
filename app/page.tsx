@@ -6,11 +6,14 @@ import { BACKGROUNDS } from '@/constants';
 import { motion } from 'framer-motion';
 import FloatingGlassButton from '@/components/FloatingButton';
 import AddLessonModal from '@/components/AddLessonModal';
+import AuthModal from '@/components/AuthModal'; // Import AuthModal
 import { getNextBackground } from './helpers';
 import { Orbit } from 'lucide-react';
+import { toast } from 'sonner'; // Import toast
 
 export default function Home() {
   const [showForm, setShowForm] = useState(false);
+  const [showAuthModal, setShowAuthModal] = useState(false); // State for AuthModal
   const [bg, setBg] = useState(() => {
     if (typeof window !== 'undefined') {
       return localStorage.getItem('appBackground') || BACKGROUNDS[0]?.url || '#f8f9fa';
@@ -29,6 +32,20 @@ export default function Home() {
   const handleShowForm = () => setShowForm(true);
   const handleClose = () => setShowForm(false);
   const handleChangeBg = () => setBg((prev) => getNextBackground(prev));
+
+  const handleAuth = (password: string) => {
+    // Placeholder for authentication logic
+    if (password === '2452') { // Replace with actual authentication
+      toast.success('Authentication successful!');
+      setShowAuthModal(false);
+      handleShowForm(); // Open AddLessonModal after successful auth
+    } else {
+      toast.error('Incorrect password.');
+    }
+  };
+
+  const handleOpenAuthModal = () => setShowAuthModal(true);
+  const handleCloseAuthModal = () => setShowAuthModal(false);
 
   return (
     <motion.div
@@ -59,29 +76,27 @@ export default function Home() {
         PolySwipe
       </motion.h2>
 
-      {/* Change background button */}
-      <button
-        onClick={handleChangeBg}
-        className="fixed top-3 sm:top-6 right-3 sm:right-6 p-2 rounded-full bg-white/10 backdrop-blur-md border border-white/30 shadow-2xl hover:bg-white/20 transition-all duration-300 active:scale-95"
-        aria-label="Change Background"
-      >
-        <Orbit className="text-white w-3 h-3 sm:w-5 sm:h-5" />
-      </button>
-
       {/* Lessons list */}
       <div className="max-w-6xl mx-auto space-y-8 h-full">
         <LessonsList refresh={refreshLessons} />
       </div>
 
-      {/* Modal */}
+      {/* Add Lesson Modal */}
       <AddLessonModal
         open={showForm}
         onClose={handleClose}
         handleLessonAdded={handleLessonAdded}
       />
 
-      {/* Floating Button */}
-      <FloatingGlassButton onClick={handleShowForm} />
+      {/* Authentication Modal */}
+      <AuthModal
+        open={showAuthModal}
+        onClose={handleCloseAuthModal}
+        onAuthenticate={handleAuth}
+      />
+
+      {/* Floating Button - now opens AuthModal */}
+      <FloatingGlassButton onClick={handleOpenAuthModal} />
 
       {/* Credits */}
       <p className="text-white/60 mt-20 text-xs">

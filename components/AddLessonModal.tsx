@@ -1,6 +1,7 @@
 import React from 'react'
 import Modal from './Modal'
 import LessonForm from './LessonForm'
+import { toast } from 'sonner'; // Import toast
 
 interface Props {
     open: boolean;
@@ -14,6 +15,7 @@ export default function AddLessonModal(props: Props) {
     const onSuccess = () => {
         handleLessonAdded()
         onClose()
+        toast.success('Lesson added successfully!'); // Add toast message
     }
 
     return (

@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useRef } from 'react';
 import { motion, useMotionValue, useTransform } from 'framer-motion';
 import { Lesson } from '@/services/lesson';
 
@@ -49,6 +49,10 @@ export default function LessonCard({ item, onSwipe, isFront = false }: LessonCar
             <div className="text-lg mb-2">
                 <p>{item.hindi}</p>
                 <p className="text-base italic text-gray-300">({item.pronunciation.hindi})</p>
+            </div>
+            <div className="text-lg mb-2">
+                <p>{item.kannada}</p>
+                <p className="text-base italic text-gray-300">({item.pronunciation.kannada})</p>
             </div>
         </motion.div>
     );
